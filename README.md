@@ -7,6 +7,8 @@ Selamat datang di portofolio resmi saya! Di sini Anda dapat menemukan informasi 
 ![Screenshot](https://raw.githubusercontent.com/MarinaAqua/Portofolio/main/portofolio.jpg)  
 *Contoh .*
 
+---
+
 ## Daftar Isi
 
 - [Services](#layanan)
