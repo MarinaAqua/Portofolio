@@ -2,6 +2,11 @@
 
 Selamat datang di portofolio resmi saya! Di sini Anda dapat menemukan informasi mengenai layanan yang saya tawarkan, keterampilan, pengalaman kerja, dan pendidikan saya.
 
+## 📸 Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/MarinaAqua/Portofolio/main/portofolio.jpg)  
+*Contoh .*
+
 ## Daftar Isi
 
 - [Services](#layanan)
