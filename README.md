@@ -4,10 +4,8 @@ Selamat datang di portofolio resmi saya! Di sini Anda dapat menemukan informasi 
 
 ## 📸 Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/MarinaAqua/Portofolio/main/portofolio.jpg)  
+![Screenshot](https://raw.githubusercontent.com/MarinaAqua/Portofolio/main/image/portofolio.jpg)  
 *Contoh .*
-
----
 
 ## Daftar Isi
 
