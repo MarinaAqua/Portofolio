@@ -40,10 +40,18 @@ Saya memiliki keterampilan dalam bidang berikut:
 - **[Posisi] di [Nama Perusahaan]** (Tahun)  
   Deskripsi singkat tentang pekerjaan dan tanggung jawab Anda.
 
-## Contact
+##  📞Contact
 
-Jika Anda memiliki pertanyaan atau ingin bekerja sama, silakan hubungi saya melalui:
-- Email: [email@example.com](mailto:email@example.com)
-- LinkedIn: [Profil LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Telegram Channel: [Mr.king's Official](https://t.me/club_gratis1)
+- Group Telegram: [Join Group](https://t.me/club_gratis)
+
+## ❤️ Donasi
+
+![Donasi](https://raw.githubusercontent.com/MarinaAqua/MarinaAqua/main/qr-donate.jpg)  
+*Terimakasih .*
+
+---
 
 Terima kasih telah mengunjungi portofolio saya!
+
+---
